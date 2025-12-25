@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: "CookingPedia",
+    description:
+      "Cooking recipe website, simple school project",
+    tech: ["HTML", "Css"],
+    link: "https://cooking-pedia-website-e5189.web.app/",
+  },
+  {
     title: "FlickFeed",
     description:
       "A one-stop movie app featuring trailers, release dates, trivia, and user interaction.",
@@ -20,4 +27,6 @@ export const projects = [
     tech: ["React", "Vite", "CSS", "Firebase"],
     link: "https://rule-budget.vercel.app/",
   },
+
+
 ];
