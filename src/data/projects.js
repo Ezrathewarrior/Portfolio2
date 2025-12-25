@@ -13,4 +13,11 @@ export const projects = [
     tech: ["React", "Vite", "CSS"],
     link: "#",
   },
+  {
+    title: "RuleBudget",
+    description:
+      "A budgeting website with rules and subscriptions",
+    tech: ["React", "Vite", "CSS", "Firebase"],
+    link: "https://rule-budget.vercel.app/",
+  },
 ];
